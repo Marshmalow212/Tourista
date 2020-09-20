@@ -1,0 +1,13 @@
+release/Tourista.o
+release/databaseconnection.o
+release/explorer.o
+release/hotel.o
+release/info.o
+release/main.o
+release/payment.o
+release/price.o
+release/selection.o
+release/qrc_resource.o
+release/moc_Tourista.o
+release/moc_explorer.o
+release/moc_payment.o

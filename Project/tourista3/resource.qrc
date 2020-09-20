@@ -1,0 +1,30 @@
+<RCC>
+    <qresource prefix="/resources">
+        <file>img/register_297979.png</file>
+        <file>img/backtourist.jpg</file>
+        <file>img/bkash.png</file>
+        <file>img/mastercard.png</file>
+        <file>img/rocket.png</file>
+        <file>img/visacard.png</file>
+        <file>databaseconnection.cpp</file>
+        <file>databaseconnection.h</file>
+        <file>explorer.cpp</file>
+        <file>explorer.h</file>
+        <file>hotel.cpp</file>
+        <file>hotel.h</file>
+        <file>info.cpp</file>
+        <file>info.h</file>
+        <file>main.cpp</file>
+        <file>payment.cpp</file>
+        <file>payment.h</file>
+        <file>price.cpp</file>
+        <file>price.h</file>
+        <file>selection.cpp</file>
+        <file>selection.h</file>
+        <file>Tourista.cpp</file>
+        <file>Tourista.h</file>
+        <file>img/tourista.jpeg</file>
+        <file>img/backi.png</file>
+        <file>img/backii.png</file>
+    </qresource>
+</RCC>

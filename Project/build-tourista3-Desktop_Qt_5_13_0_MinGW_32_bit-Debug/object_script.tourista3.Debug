@@ -1,0 +1,13 @@
+debug/Tourista.o
+debug/databaseconnection.o
+debug/explorer.o
+debug/hotel.o
+debug/info.o
+debug/main.o
+debug/payment.o
+debug/price.o
+debug/selection.o
+debug/qrc_resource.o
+debug/moc_Tourista.o
+debug/moc_explorer.o
+debug/moc_payment.o
